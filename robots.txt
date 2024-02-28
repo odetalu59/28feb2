@@ -1,0 +1,107 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://mail.docs.rubeus.com.br/superjp.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/gilajp.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/gojekpot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/winstrike69.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/jagoan86.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/kaptenjackpot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/boosterjp.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/kerajaanslot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pakong86.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/viral88.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/clan4d.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/dinamit4d.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/elang212.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/gori77.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/viral4d.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/playground88.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/judi slot triofus.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/judi slot pro.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/demo slot mahjong.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/20 slot demo gratis.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot demo mahjong.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit dana.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit pulsa.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit bca.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit bri.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit bni.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit mandiri.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit link aja.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit ovo.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit gopay.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit cimb.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/daftar slot online.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/judi slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/rtp slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot demo pragmatic.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot online.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pola slot hoki.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pola slot gacor.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pola slot terbaru.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pola slot terbaik.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pola slot 1 klik.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pg slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot online terbaru.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/hoki slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/judi slot online pro.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/zeus slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot online triofus.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot online terpercaya.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/buku mimpi slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pola slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot triofus.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/judi slot gacor triofus.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit 5000.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/heylink slot demo.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot deposit pulsa tanpa potongan.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot zeus.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/judi slot triofusin.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot server myanmar.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot pulsa tanpa potongan.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot depo 5k.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot vip.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/cara main slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot server luar.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/demo slot heylink.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/depo slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot dana.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/dana slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot ovo.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/ovo slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot gopay.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/gopay slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot qris.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/qris slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot bca.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/bca slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot bri.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/bri slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot bni.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/bni slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot mandiri.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/mandiri slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot cimb.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/cimb slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot link aja.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/link aja slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/deposit pulsa telkomsel.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pulsa telkomsel deposit.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot pulsa telkomsel.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pulsa telkomsel slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/deposit pulsa xl.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pulsa xl deposit.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/slot pulsa xl.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pulsa xl slot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/janda sange.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/ukhti sange.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/sange twitter.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/cerita sange.html/sitemap.xml
+
